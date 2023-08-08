@@ -397,9 +397,12 @@ IN – значение, находящееся внутри класса экв
 ![Pairwise2](https://github.com/NatalyaKregel/Graduate_work_KregelNA/blob/main/ПВ2.png)
 ![Pairwise3](https://github.com/NatalyaKregel/Graduate_work_KregelNA/blob/main/ПВ3.png)
 
+
 7.4. БАГ-РЕПОРТЫ И БАК-ТРЕКИНГОВАЯ СИСТЕМА
 
-  8. ПРОВЕДЕНИЕ ТЕСТИРОВАНИЯ И РАЗРАБОТКА ПРЕДЛОЖЕНИЙ ПО УЛУЧШЕНИЮ
+
+
+8. ПРОВЕДЕНИЕ ТЕСТИРОВАНИЯ И РАЗРАБОТКА ПРЕДЛОЖЕНИЙ ПО УЛУЧШЕНИЮ
 
 8.1. SMOKE-ТЕСТИРОВАНИЕ
 
