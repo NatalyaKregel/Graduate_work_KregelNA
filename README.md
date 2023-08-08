@@ -564,7 +564,7 @@ IN – значение, находящееся внутри класса экв
 
 https://docs.google.com/spreadsheets/d/1AWFmYTaQynGgHqLDy5CbqlPq0YGRIxfk/edit#gid=80506946
 
-Из 13 заведенных багов :
+Из 16 заведенных багов :
 •	9 – имеют статус major.
 •	4 – имеют статус minor.
 Качество объекта тестирования.
