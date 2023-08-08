@@ -391,7 +391,7 @@ IN – значение, находящееся внутри класса экв
 
 С помощью техники попарного тестирования создаем проверки так, чтобы выполнились все возможные комбинации каждой пары входных параметров. Данная техника не обеспечивает исчерпывающее тестирование, но эффективна для поиска ошибок.
 
-![Pairwise1](https://github.com/NatalyaKregel/Graduate_work_KregelNA/blob/main/ПВ1.png)
+![Pairwise1](https://github.com/NatalyaKregelGraduate_work_KregelNA/blob/main/ПВ1.png)
 ![Pairwise2](https://github.com/NatalyaKregel/Graduate_work_KregelNA/blob/main/ПВ2.png)
 ![Pairwise3](https://github.com/NatalyaKregel/Graduate_work_KregelNA/blob/main/ПВ3.png)
 
